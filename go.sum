@@ -1,0 +1,4 @@
+github.com/evilgooby/slog_key v0.0.0-20251027192043-03be55161199 h1:GCQFrqq63b4KNyGw4pCWP7vTVxnUEyhvvIlZ1RIBEBs=
+github.com/evilgooby/slog_key v0.0.0-20251027192043-03be55161199/go.mod h1:HzD2x/ikkxKcNEJm1sDf30KHD53w9cLqEo/HV7VLyZI=
+github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
+github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
